@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://pmint93.github.io/what-makes-ruby-difference/</loc>
+    <lastmod>2014-12-13T15:18:27+07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://pmint93.github.io/about/</loc>
-    <lastmod>2014-12-13T14:52:43+07:00</lastmod>
+    <lastmod>2014-12-13T15:22:30+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://pmint93.github.io/posts/</loc>
-    <lastmod>2014-12-13T14:52:43+07:00</lastmod>
+    <lastmod>2014-12-13T15:22:30+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://pmint93.github.io/</loc>
-    <lastmod>2014-12-13T14:52:43+07:00</lastmod>
+    <lastmod>2014-12-13T15:22:30+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
